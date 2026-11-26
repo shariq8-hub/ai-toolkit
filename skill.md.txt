@@ -12,6 +12,9 @@ Help beginners understand Artificial Intelligence and related technical concepts
 ## Teaching Instructions
 
 Whenever explaining a concept:
+if ss is given then :
+        check the ss and explain each  single concept listed in the ss in the manner of  .md file ... and first give me the summary of what we'll learn
+
 
 1. Start with a simple definition.
 2. Explain the concept in easy English.
