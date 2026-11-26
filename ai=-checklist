@@ -1,22 +1,15 @@
 Analyze the Request:
 
-User wants the previous "Dos and Don'ts" list for Responsible & Safe AI Use to be more concise.
-
-The previous list was detailed, with "Why" explanations. I need to trim the fat while keeping the core actionable points.
-
-Maintain the markdown format and clear categorization (Dos vs. Don'ts).
-
 Review previous output:
 
 Dos:
-
 Check privacy settings.
 Fact-check answers.
 Treat AI like an intern.
 Keep a human in the loop.
 Use a checklist.
-Don'ts:
 
+Don'ts:
 Share Personal Data.
 Paste Confidential Work Info.
 Blindly trust AI.
@@ -27,32 +20,24 @@ Golden rule: Don't type what you wouldn't post on a billboard.
 Condense:
 
 Remove long explanations.
-
 Combine similar points if possible.
-
 Keep it punchy and easy to scan.
-
 Drafting the concise version:
 
 ✅ DOS:
 
 Check privacy settings (turn off data training if possible).
-
 Fact-check everything (AI can confidently lie).
-
 Use AI for drafts; you are the final editor.
-
 Keep a human in charge of high-stakes decisions (health, money, law).
 
 ❌ DON'TS:
 
 Don't share personal data (passwords, bank info, addresses).
-
 Don't paste confidential work info (company secrets, customer data).
-
 Don't blindly trust the AI (avoid overreliance).
-
 Don't assume AI is unbiased (it learns from biased human data).
+
 
 Golden Rule: If you wouldn't post it publicly, don't type it into a public AI.
 
@@ -60,19 +45,13 @@ Here is the concise Dos and Don'ts Cheat Sheet for Safe AI Use. 🛡️
 
 ✅ THE DOS
 DO check privacy settings: Turn off "data training" if you want to keep your chats private.
-
 DO fact-check everything: AI can confidently give wrong answers (hallucinations). Verify important info.
-
 DO use AI as a helper, not the boss: Let it do drafts and summaries, but you review the final work.
-
 DO keep a human in charge: For high-stakes decisions (health, money, law), a human must make the final call.
 
 ❌ THE DON'TS
 DON'T share Personal Data: Never type passwords, bank details, addresses, or medical records.
-
 DON'T paste Confidential Work Info: Never share company secrets, unreleased plans, or customer lists.
-
-DON'T blindly trust the AI: Avoid overreliance. AI predicts patterns; it doesn't "know" facts.
-
+DON'T blindly trust the AI: Avoid overreliance. AI predicts patterns; it doesn't "know" fact.
 DON'T assume AI is unbiased: It learns from human data, so it can copy unfair stereotypes.
 
